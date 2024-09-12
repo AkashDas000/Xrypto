@@ -6,9 +6,9 @@ const avatarSrc = "";
 
 const Footer = () => {
   return (
-    <Box
-      bgColor={"blackAlpha.900"}
-      color={"whiteAlpha.700"}
+    <Box boxShadow='lg' p='6'  
+      bgColor={"whiteAlpha.700"}
+      color={"balck"}
       minH={"48"}
       px={"16"}
       py={["16", "8"]}
